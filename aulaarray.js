@@ -14,3 +14,11 @@ console.log(num);
 num.length;
 console.log("o vetor tem:");
 console.log(num.length);
+
+//Buscar valores falando a posição que ele esta
+console.log("o valor 5 está na posição:")
+console.log(num.indexOf(5))
+
+//modificação nos elementos de um Array.
+num.map
+console.log(num.map)
