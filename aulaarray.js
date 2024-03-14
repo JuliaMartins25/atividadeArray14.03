@@ -7,5 +7,10 @@ console.log(num)
 
 //colocar em ordem crescente
 console.log ("---exibir em ordem crescente---");
-num.sort()
-console.log(num)
+num.sort();
+console.log(num);
+
+//comprimeto desse array
+num.length;
+console.log("o vetor tem:");
+console.log(num.length);
