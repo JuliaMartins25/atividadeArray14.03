@@ -1,5 +1,6 @@
 //Aula array de javascrip!
-//teste 1
-//teste 2
-//teste 3
-//teste 4
+
+//Declaro variavel num para array
+let num = [5, 8, 3, 4, 7]
+console.log("--- exibir Array ---");
+console.log(num)
